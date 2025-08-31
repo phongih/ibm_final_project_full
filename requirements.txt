@@ -1,0 +1,6 @@
+flask
+flask-restx
+pytest
+factory_boy
+behave
+requests
